@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "66acb28dbf36a0562d52e24b_9265c3ae-0522-4d62-9c44-73e768bd6900",
-  "id": "Page1_Api1",
+  "gitSyncId": "66acb28dbf36a0562d52e24b_3f1cbf7a-ed54-4f7d-adfa-678fadb33ce3",
+  "id": "Page1_Api3",
   "pluginId": "restapi-plugin",
   "pluginType": "API",
   "unpublishedAction": {
@@ -49,7 +49,7 @@
       "pluginId": "restapi-plugin"
     },
     "executeOnLoad": true,
-    "name": "Api1",
+    "name": "Api3",
     "pageId": "Page1",
     "userSetOnLoad": false
   }
